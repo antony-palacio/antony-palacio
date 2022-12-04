@@ -6,7 +6,7 @@
 
 
 For 6 years I've worked as a Chemical Engineer in Hot Fill food & retort processing, Aseptic Liquid Food Processing and Building Automation System controls. 
-I'm working towards enhancing my skillset in Python and Javascript.
+I'm working towards enhancing my skillset in Python, Javascript and Kotlin.
 
 
 
